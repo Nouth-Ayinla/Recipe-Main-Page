@@ -2,10 +2,10 @@
     margin:0;
     padding:0;
     box-sizing:border-box;
-    font-family: Young Serif,Outfit;
+    font-family:Young Serif,Outfit;
 }
 @font-face {
-    font-family: 'Young Serif';
+    font-family:'Young Serif';
     src: url('https://github.com/Nouth-Ayinla/Recipe-Main-Page/blob/Main/YoungSerif-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
