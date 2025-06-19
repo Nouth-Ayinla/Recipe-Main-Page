@@ -6,7 +6,7 @@
 }
 @font-face {
     font-family: 'Young Serif';
-    src: url('young-serif/YoungSerif-Regular.ttf') format('truetype');
+    src: url('YoungSerif-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -14,7 +14,7 @@
 
 @font-face {
     font-family: 'Outfit';
-    src: url('outfit/Outfit-VariableFont_wght.ttf') format('truetype');
+    src: url('Outfit-VariableFont_wght.ttf') format('truetype');
     font-weight: 100 900;
     font-style: normal;
     font-display: swap;
